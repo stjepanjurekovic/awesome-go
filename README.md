@@ -3455,7 +3455,7 @@ _Where to discover new Go libraries._
 
 ## E-Books
 
-* [100 Go Mistakes: How to Avoid Them](https://www.manning.com/books/100-go-mistakes-how-to-avoid-them)Spot errors in your Go code you didn’t even know you were making and boost your productivity by avoiding common mistakes and pitfalls.
+* [100 Go Mistakes: How to Avoid Them](https://www.manning.com/books/100-go-mistakes-how-to-avoid-them) Spot errors in your Go code you didn’t even know you were making and boost your productivity by avoiding common mistakes and pitfalls.
 * [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read)
 * [An Introduction to Programming in Go](http://www.golang-book.com/)
 * [Build an Orchestrator in Go](https://www.manning.com/books/build-an-orchestrator-in-go)Understand Kubernetes and other orchestration systems deeply by building your own using Go and the Docker API.
